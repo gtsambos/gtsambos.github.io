@@ -1,5 +1,5 @@
 
-![](mac2.jpg)
+![](gtsambos.github.io/mac2.jpg)
 
 **Hi!**
 
