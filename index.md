@@ -1,5 +1,5 @@
 
-![pic_of_me](https://github.com/gtsambos/gtsambos.github.io/blob/master/mac2.jpg "Here I am")
+![](mac2.jpg)
 
 **Hi!**
 
