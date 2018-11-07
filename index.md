@@ -1,3 +1,6 @@
+
+![pic_of_me](https://github.com/gtsambos/gtsambos.github.io/blob/master/mac2.jpg "Here I am")
+
 **Hi!**
 
 I'm Georgia, a PhD student in statistical genetics at the University of Melbourne in Australia. 
