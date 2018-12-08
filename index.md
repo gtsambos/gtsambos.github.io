@@ -30,11 +30,12 @@ I have extensive experience with
 - Bash scripting
 - Git
 - TikZ
+
 with particular proficiencies in scientific and statistical computing and data visualisation. 
 
 
 
-# Education
+# Formal education
 
 - **Doctor of Philosophy (ongoing)**, *School of Mathematics and Statistics, University of Melbourne, August 2017 - present.*
 Supervised by [Damjan Vukcevic](https://research.unimelb.edu.au/integrative-genomics/research/statistical-genetics-vukcevic) and [Stephen Leslie](https://research.unimelb.edu.au/integrative-genomics/research/statistical-genetics-leslie) at [Melbourne Integrative Genomics](https://research.unimelb.edu.au/integrative-genomics/MIG-home).
@@ -48,6 +49,19 @@ Project work in functional analysis and dynamical systems was supervised by [Gar
 - **Bachelor of Arts**, *various schools, University of New South Wales, March 2009 - November 2012.*
 
 - **Higher School Certificate**, *[International Grammmar School Sydney](https://www.igssyd.nsw.edu.au), 2008.*
+
+
+# Jobs and other experiences
+
+- **Economics:** Did an internship with the Reserve Bank of Australia.  
+
+- **Climate Science:** Climate Change Research Centre
+
+- **Teaching and scientific communication:** Calculus, SCIF, Curious Minds 
+
+- **Student community organising:** SSA, STAMPS.
+
+- **Music:** Most of my free time is spent playing guitar. Qualifications in jazz guitar from the Sydney Conservatorium of Music, occasional performer at LongPlay in Melbourne.
 
 
 # Awards
