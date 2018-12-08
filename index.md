@@ -43,7 +43,7 @@ Supervised by [Damjan Vukcevic](https://research.unimelb.edu.au/integrative-geno
 Completed with Distinction. Project work in statistical genetics was supervised by Damjan Vukcevic and Stephen Leslie.
 
 - **Bachelor of Advanced Mathematics (Pure Mathematics)**, Hons 1, *School of Mathematics and Statistics, University of New South Wales, March 2009 - November 2013.*
-Project work in functional analysis and dynamical systems was supervised by Gary Froyland and Cecilia Gonzalez-Tokman.
+Project work in functional analysis and dynamical systems was supervised by [Gary Froyland](https://research.unsw.edu.au/people/professor-gary-froyland) and [Cecilia Gonzalez-Tokman](https://smp.uq.edu.au/profile/255/cecilia-gonzalez-tokman).
 
 - **Bachelor of Arts**, *various schools, University of New South Wales, March 2009 - November 2012.*
 
