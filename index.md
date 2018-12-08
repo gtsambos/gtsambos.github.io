@@ -50,15 +50,19 @@ Project work in functional analysis and dynamical systems was supervised by Gary
 - **Higher School Certificate**, *[International Grammmar School Sydney](https://www.igssyd.nsw.edu.au), 2008.*
 
 
-# Awards and scholarships
+# Awards
 
 - [Research Training Program scholarship](https://scholarships.unimelb.edu.au/awards/helen-r-freeman-scholarship-master-of-science-mathematics-and-statistics), the Australian Government
 
 - [The Helen R Freeman scholarship](https://scholarships.unimelb.edu.au/awards/helen-r-freeman-scholarship-master-of-science-mathematics-and-statistics), University of Melbourne
 
+- [Faculty of Science Vacation Research Scholarship](https://scholarships.unimelb.edu.au/awards/helen-r-freeman-scholarship-master-of-science-mathematics-and-statistics), UNSW, 2011
+
 - [Faculty of Science scholarship](https://www.scholarships.unsw.edu.au/scholarships/id/1232), UNSW
 
-- [Scientia scholarship](https://www.scholarships.unsw.edu.au/scholarships/id/102), UNSW
+- [Scientia scholarship](https://www.scholarships.unsw.edu.au/scholarships/id/102), UNSWi
+
+- [Academic Achievement Award](https://www.scholarships.unsw.edu.au/scholarships/id/1), UNSW, 2009
 
 - [Australian Student Prize](https://en.wikipedia.org/wiki/Australian_Student_Prize), 2008
 
