@@ -6,7 +6,7 @@
 I'm Georgia, a PhD student in the School of Mathematics and Statistics and Melbourne Integrative Genomics, both at the University of Melbourne in Australia. 
 I'm originally from Sydney, but I moved to Melbourne for study a few years ago.
 
-My PhD research focuses on identifying the genetic signatures of admixture and local ancestry with statistical methodologies. Admixture occurs when organisms from two (or more) genetically distinct populations mix together to produce offspring of 'mixed ancestry'. *Local ancestry* refers to the ancestral origin of distinct genomic segments within an admixed individuals. Studying this ancestry can yield insights about demography, migratory history, evolution and disease.
+My PhD research focuses on identifying the genetic signatures of admixture and local ancestry with statistical methodologies. Admixture occurs when organisms from two (or more) genetically distinct populations mix together to produce offspring of 'mixed ancestry'. Local ancestry refers to the ancestral origin of distinct genomic segments within an admixed individual. Studying this ancestry can yield insights about demography, migratory history, evolution and disease.
 
 
 # Programming experience
@@ -24,7 +24,7 @@ with particular proficiencies in scientific and statistical computing, data visu
 
 
 
-# Formal education
+# Higher education
 
 - **Doctor of Philosophy (ongoing)**, *School of Mathematics and Statistics, University of Melbourne, August 2017 - present.*
 Supervised by [Damjan Vukcevic](https://research.unimelb.edu.au/integrative-genomics/research/statistical-genetics-vukcevic) and [Stephen Leslie](https://research.unimelb.edu.au/integrative-genomics/research/statistical-genetics-leslie) at [Melbourne Integrative Genomics](https://research.unimelb.edu.au/integrative-genomics/MIG-home).
@@ -40,7 +40,7 @@ Project work in functional analysis and dynamical systems was supervised by [Gar
 - **Higher School Certificate**, *[International Grammar School Sydney](https://www.igssyd.nsw.edu.au), 2008.*
 
 
-# Other formative professional experiences
+# Some formative professional experiences
 
 - **Economics:** I did an internship with the [Reserve Bank of Australia](https://www.rba.gov.au/)'s Economic Research division over the summer of 2013-2014.  
 
@@ -70,3 +70,8 @@ Project work in functional analysis and dynamical systems was supervised by [Gar
 - [Australian Student Prize](https://en.wikipedia.org/wiki/Australian_Student_Prize), Australian Government, 2008
 
 - Dux of the [International Grammar School](https://www.igssyd.nsw.edu.au), 2008
+
+
+# Contact
+
+My current email for research-related stuff is `gtsambos` (at) `student.unimelb.edu.au`.
