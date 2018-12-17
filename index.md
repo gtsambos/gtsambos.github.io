@@ -3,26 +3,15 @@
 
 **Hi!**
 
-I'm Georgia, a PhD student in statistical genetics at the University of Melbourne in Australia. 
+I'm Georgia, a PhD student in the School of Mathematics and Statistics and Melbourne Integrative Genomics, both at the University of Melbourne in Australia. 
 I'm originally from Sydney, but I moved to Melbourne for study a few years ago.
 
-
-Read on to learn about my professional experience and other information about me.
-
-
-# Things I care about
-
-
-My research focuses on statistical methodologies for learning about genetics and ancestry.
-
-I am particularly interested in studies of admixture. Admixture occurs when organisms from two (or more) genetically distinct populations mix together to produce offspring of 'mixed ancestry'. 
-
-I have extensive experience teaching both technical and discursive aspects of mathematics and statistics.
+My PhD research focuses on identifying the genetic signatures of admixture and local ancestry with statistical methodologies. Admixture occurs when organisms from two (or more) genetically distinct populations mix together to produce offspring of 'mixed ancestry'. *Local ancestry* refers to the ancestral origin of distinct genomic segments within an admixed individuals. Studying this ancestry can yield insights about demography, migratory history, evolution and disease.
 
 
 # Programming experience
 
-I have extensive experience with
+I have experience with
 - R
 - Python
 - Markdown
@@ -31,7 +20,7 @@ I have extensive experience with
 - Git
 - TikZ
 
-with particular proficiencies in scientific and statistical computing and data visualisation. 
+with particular proficiencies in scientific and statistical computing, data visualization and mathematical typesetting. 
 
 
 
@@ -51,17 +40,17 @@ Project work in functional analysis and dynamical systems was supervised by [Gar
 - **Higher School Certificate**, *[International Grammmar School Sydney](https://www.igssyd.nsw.edu.au), 2008.*
 
 
-# Jobs and other experiences
+# Other formative professional experiences
 
-- **Economics:** Did an internship with the Reserve Bank of Australia.  
+- **Economics:** I did an internship with the Reserve Bank of Australia over the summer of 2013-2014.  
 
-- **Climate Science:** Climate Change Research Centre
+- **Climate Science:** I did an internship with UNSW's [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/) over the summer of 2014-2015.
 
-- **Teaching and scientific communication:** Calculus, SCIF, Curious Minds 
+- **Teaching and scientific communication:** I have experience teaching both technical and discursive subjects in a tertiary setting. (UNSW Calculus, UNSW SCIF, UNSW Curious Minds)
 
 - **Student community organising:** SSA, STAMPS.
 
-- **Music:** Most of my free time is spent playing guitar. Qualifications in jazz guitar from the Sydney Conservatorium of Music, occasional performer at LongPlay in Melbourne.
+- **Music:** Most of my free time is spent playing guitar. I have qualifications in jazz guitar from the [Sydney Conservatorium of Music's Open Academy](https://openacademy.sydney.edu.au/Short+Courses), and can occasionally be spotted backing up my friends at [LongPlay](http://www.longplay.net.au/) in Melbourne.
 
 
 # Awards
@@ -70,14 +59,14 @@ Project work in functional analysis and dynamical systems was supervised by [Gar
 
 - [The Helen R Freeman scholarship](https://scholarships.unimelb.edu.au/awards/helen-r-freeman-scholarship-master-of-science-mathematics-and-statistics), University of Melbourne
 
-- [Faculty of Science Vacation Research Scholarship](https://scholarships.unimelb.edu.au/awards/helen-r-freeman-scholarship-master-of-science-mathematics-and-statistics), UNSW, 2011
+- [Faculty of Science Vacation Research Scholarship](https://scholarships.unimelb.edu.au/awards/helen-r-freeman-scholarship-master-of-science-mathematics-and-statistics), UNSW
 
 - [Faculty of Science scholarship](https://www.scholarships.unsw.edu.au/scholarships/id/1232), UNSW
 
-- [Scientia scholarship](https://www.scholarships.unsw.edu.au/scholarships/id/102), UNSWi
+- [Scientia scholarship](https://www.scholarships.unsw.edu.au/scholarships/id/102), UNSW
 
 - [Academic Achievement Award](https://www.scholarships.unsw.edu.au/scholarships/id/1), UNSW, 2009
 
-- [Australian Student Prize](https://en.wikipedia.org/wiki/Australian_Student_Prize), 2008
+- [Australian Student Prize](https://en.wikipedia.org/wiki/Australian_Student_Prize), Australian Government, 2008
 
-- Dux of [International Grammar School](https://www.igssyd.nsw.edu.au), 2008
+- Dux of the [International Grammar School](https://www.igssyd.nsw.edu.au), 2008
