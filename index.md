@@ -37,18 +37,18 @@ Project work in functional analysis and dynamical systems was supervised by [Gar
 
 - **Bachelor of Arts**, *various schools, University of New South Wales, March 2009 - November 2012.*
 
-- **Higher School Certificate**, *[International Grammmar School Sydney](https://www.igssyd.nsw.edu.au), 2008.*
+- **Higher School Certificate**, *[International Grammar School Sydney](https://www.igssyd.nsw.edu.au), 2008.*
 
 
 # Other formative professional experiences
 
-- **Economics:** I did an internship with the Reserve Bank of Australia over the summer of 2013-2014.  
+- **Economics:** I did an internship with the [Reserve Bank of Australia](https://www.rba.gov.au/)'s Economic Research division over the summer of 2013-2014.  
 
 - **Climate Science:** I did an internship with UNSW's [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/) over the summer of 2014-2015.
 
 - **Teaching and scientific communication:** I have experience teaching both technical and discursive subjects in a tertiary setting. (UNSW Calculus, UNSW SCIF, UNSW Curious Minds)
 
-- **Student community organising:** SSA, STAMPS.
+- **Student community organising:** I've been heavily involved in various groups that foster a sense of professional community amongst mathematicians and statisticians. I'm currently the Young Statisticians Representative for the Victorian branch of the [Statistical Society of Australia](https://www.statsoc.org.au/), and have led a number of events in that role. I have previously been an advocate for students in various positions of leadership in Unimelb's STAMPS (Statistics and Maths Postgrad Society), and UNSW's MathSoc.
 
 - **Music:** Most of my free time is spent playing guitar. I have qualifications in jazz guitar from the [Sydney Conservatorium of Music's Open Academy](https://openacademy.sydney.edu.au/Short+Courses), and can occasionally be spotted backing up my friends at [LongPlay](http://www.longplay.net.au/) in Melbourne.
 
