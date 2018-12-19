@@ -3,6 +3,8 @@
 
 **Hi!**
 
+(This site is a work-in-progress...)
+
 I'm Georgia, a PhD student in the School of Mathematics and Statistics and Melbourne Integrative Genomics, both at the University of Melbourne in Australia. 
 I'm originally from Sydney, but I moved to Melbourne for study a few years ago.
 
