@@ -8,7 +8,7 @@
 I'm Georgia, a PhD student in the School of Mathematics and Statistics and Melbourne Integrative Genomics, both at the University of Melbourne in Australia. 
 I'm originally from Sydney, but I moved to Melbourne for study a few years ago.
 
-My PhD research focuses on identifying the genetic signatures of admixture and local ancestry with statistical methodologies. Admixture occurs when organisms from two (or more) genetically distinct populations mix together to produce offspring of 'mixed ancestry'. Local ancestry refers to the ancestral origin of distinct genomic segments within an admixed individual. Studying this ancestry can yield insights about demography, migratory history, evolution and disease.
+My PhD research is about identifying genetic signatures of admixture and local ancestry with statistics. Admixture occurs when organisms from two (or more) genetically distinct populations mix together to produce offspring of 'mixed ancestry'. Local ancestry refers to the ancestral origin of distinct genomic segments within an admixed individual. Studying this ancestry can yield insights about demography, migratory history, evolution and disease.
 
 
 # Programming experience
