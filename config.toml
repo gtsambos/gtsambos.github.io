@@ -8,6 +8,7 @@ theme = "hugo-tanka"
 googleAnalytics = ""
 disqusShortname = ""
 disable_mathjax = false
+enableEmoji = true
 publishDir = "../gtsambos.github.io"
 
 pygmentsstyle      = "vs"

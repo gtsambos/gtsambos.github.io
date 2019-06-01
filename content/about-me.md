@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-Hi!
+Hi :wave:
 
 <img src="/./about-me_files/mac2.jpg" alt="" width="80%"/>
 
