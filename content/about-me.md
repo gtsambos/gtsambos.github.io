@@ -1,26 +1,30 @@
+---
+title: About me
+author: ''
+date: '2019-02-13'
+slug: about-me
+categories: []
+tags: []
+---
 
-![](gtsambos.github.io/mac2.jpg)
+Hi!
 
-**Hi!**
+<img src="/./about-me_files/mac2.jpg" alt="" width="80%"/>
 
-(This site is a work-in-progress...)
+(Note: this site is a continual work-in-progress...)
 
-I'm Georgia, a PhD student in the School of Mathematics and Statistics and Melbourne Integrative Genomics, both at the University of Melbourne in Australia. 
+I'm Georgia, a PhD student in statistical genetics at the University of Melbourne in Australia. 
 I'm originally from Sydney, but I moved to Melbourne for study a few years ago.
 
 My PhD research is about identifying genetic signatures of admixture and local ancestry with statistics. Admixture occurs when organisms from two (or more) genetically distinct populations mix together to produce offspring of 'mixed ancestry'. Local ancestry refers to the ancestral origin of distinct genomic segments within an admixed individual. Studying this ancestry can yield insights about demography, migratory history, evolution and disease.
 
+For a recent resume, head over [here](https://github.com/gtsambos/resume/blob/master/main.pdf).
 
 # Programming experience
 
 I have experience with
-- R
-- Python
-- Markdown
-- LaTeX
-- Bash scripting
-- Git
-- TikZ
+
+R - Python - Stan - Markdown - LaTeX - Bash scripting - Git - TikZ
 
 with particular proficiencies in scientific and statistical computing, data visualization and mathematical typesetting. 
 
@@ -50,29 +54,14 @@ Project work in functional analysis and dynamical systems was supervised by [Gar
 
 - **Teaching and scientific communication:** I have experience teaching both technical and discursive subjects in a tertiary setting. (UNSW Calculus, UNSW SCIF, UNSW Curious Minds)
 
-- **Student community organising:** I've been heavily involved in various groups that foster a sense of professional community amongst mathematicians and statisticians. I'm currently the Young Statisticians Representative for the Victorian branch of the [Statistical Society of Australia](https://www.statsoc.org.au/), and have led a number of events in that role. I have previously been an advocate for students in various positions of leadership in Unimelb's STAMPS (Statistics and Maths Postgrad Society), and UNSW's MathSoc.
+- **Student community organising:** I've been heavily involved in various groups that foster a sense of professional community amongst mathematicians and statisticians. I'm currently the Young Statisticians Representative for the Victorian branch of the [Statistical Society of Australia](https://www.statsoc.org.au/), and have managed a number of events in that role. I have previously been an advocate for students in various positions of leadership in Unimelb's STAMPS (Statistics and Maths Postgrad Society), and UNSW's MathSoc.
 
 - **Music:** Most of my free time is spent playing guitar. I have qualifications in jazz guitar from the [Sydney Conservatorium of Music's Open Academy](https://openacademy.sydney.edu.au/Short+Courses), and can occasionally be spotted backing up my friends at [LongPlay](http://www.longplay.net.au/) in Melbourne.
 
 
-# Awards
+# What I actually look like
 
-- [Research Training Program scholarship](https://scholarships.unimelb.edu.au/awards/helen-r-freeman-scholarship-master-of-science-mathematics-and-statistics), the Australian Government
-
-- [The Helen R Freeman scholarship](https://scholarships.unimelb.edu.au/awards/helen-r-freeman-scholarship-master-of-science-mathematics-and-statistics), University of Melbourne
-
-- [Faculty of Science Vacation Research Scholarship](https://scholarships.unimelb.edu.au/awards/helen-r-freeman-scholarship-master-of-science-mathematics-and-statistics), UNSW
-
-- [Faculty of Science scholarship](https://www.scholarships.unsw.edu.au/scholarships/id/1232), UNSW
-
-- [Scientia scholarship](https://www.scholarships.unsw.edu.au/scholarships/id/102), UNSW
-
-- [Academic Achievement Award](https://www.scholarships.unsw.edu.au/scholarships/id/1), UNSW, 2009
-
-- [Australian Student Prize](https://en.wikipedia.org/wiki/Australian_Student_Prize), Australian Government, 2008
-
-- Dux of the [International Grammar School](https://www.igssyd.nsw.edu.au), 2008
-
+<img src="/./about-me_files/Georgia_headshot.jpg" alt="" width="60%"/>
 
 # Contact
 

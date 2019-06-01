@@ -1,0 +1,44 @@
+baseurl = "https://gtsambos.github.io/"
+title = "Georgia Tsambos"
+author = "Georgia Tsambos"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-tanka"
+
+googleAnalytics = ""
+disqusShortname = ""
+disable_mathjax = false
+publishDir = "../gtsambos.github.io"
+
+pygmentsstyle      = "vs"
+pygmentscodefences = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  sitename = "Georgia Tsambos"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About me"
+    url = "/about-me/"
+    weight = 2
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/gtsambos"
+    weight = 3
+#[[menu.main]]
+#    name = "LinkedIn"
+#    url = "https://www.linkedin.com/in/nanxstats"
+#    weight = 3
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/feathers_"
+    weight = 4
+#[[menu.main]]
+#    name = "RSS"
+#    url = "/index.xml"
+#    weight = 5
