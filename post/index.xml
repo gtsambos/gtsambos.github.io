@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Georgia Tsambos</title>
-    <link>/post/</link>
+    <link>https://gtsambos.github.io/post/</link>
     <description>Recent content in Posts on Georgia Tsambos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gtsambos.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I’m in the UK!</title>
-      <link>/post/uk/</link>
+      <link>https://gtsambos.github.io/post/uk/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/uk/</guid>
+      <guid>https://gtsambos.github.io/post/uk/</guid>
       <description>1st May, 2019
 Between May and August of this year, I&amp;rsquo;ll be in Oxford visiting the Big Data Institute.
 I&amp;rsquo;ll also be at a few conferences:

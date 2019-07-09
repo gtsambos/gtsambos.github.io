@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Georgia Tsambos</title>
-    <link>/</link>
+    <link>https://gtsambos.github.io/</link>
     <description>Recent content on Georgia Tsambos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gtsambos.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I’m in the UK!</title>
-      <link>/post/uk/</link>
+      <link>https://gtsambos.github.io/post/uk/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/uk/</guid>
+      <guid>https://gtsambos.github.io/post/uk/</guid>
       <description>1st May, 2019
 Between May and August of this year, I&amp;rsquo;ll be in Oxford visiting the Big Data Institute.
 I&amp;rsquo;ll also be at a few conferences:
@@ -25,10 +25,10 @@ I&amp;rsquo;ll also be at a few conferences:
     
     <item>
       <title>About me</title>
-      <link>/about-me/</link>
+      <link>https://gtsambos.github.io/about-me/</link>
       <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/about-me/</guid>
+      <guid>https://gtsambos.github.io/about-me/</guid>
       <description>Hi 👋
 (Note: this site is a continual work-in-progress&amp;hellip;)
 I&amp;rsquo;m Georgia, a PhD student in statistical genetics at the University of Melbourne in Australia. I&amp;rsquo;m originally from Sydney, but I moved to Melbourne for study a few years ago.
