@@ -1,0 +1,9 @@
+title: Your Name
+description: Short tagline or description
+url: https://<your-username>.github.io
+
+markdown: kramdown
+theme: null
+
+plugins:
+  - jekyll-seo-tag
