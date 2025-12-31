@@ -5,15 +5,17 @@ title: Home
 
 ## Welcome
 
-I’m a brief introduction to who you are and what you do.
+Hi! I'm currently a postdoctoral scholar working in Kelley Harris' lab at the University of Washington in Seattle.
+I have a PhD in Statistics from the University of Melbourne. I was supervised by Damjan Vukcevic and Stephen Leslie.
+To contact me, please reach out via one of the services mentioned below.
 
-### Projects
 
-- **Project One**  
+### Science stuff
+
+- **Postdoctoral research**  
   Short description ([GitHub](https://github.com/yourname/project1))
 
-- **Project Two**  
+- **My PhD**  
   Short description
 
-### Writing
-- [Post title](#)
+### Guitar stuff
