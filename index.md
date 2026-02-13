@@ -3,19 +3,20 @@ layout: default
 title: Home
 ---
 
-## Welcome
+Hi, I'm Georgia — a scientist, musician, and Australian living in Seattle.
 
-Hi! I'm currently a postdoctoral scholar working in Kelley Harris' lab at the University of Washington in Seattle.
-I have a PhD in Statistics from the University of Melbourne. I was supervised by Damjan Vukcevic and Stephen Leslie.
-To contact me, please reach out via one of the services mentioned below.
+## About me
 
+I'm a postdoctoral researcher in computational genetics at the University of Washington, where I build statistical tools to understand how genetic mutations arise and evolve across individuals, populations, and species. My current work focuses on analyzing genomic data from an endangered bird species, with the goal of extending these methods to other ecological datasets.
 
-### Science stuff
+**Current work:** Postdoctoral scholar in Kelley Harris' lab at UW Genome Sciences, collaborating with Nancy Chen's lab at UCLA. I design and implement methods for large-scale genomic data analysis, develop reproducible tools for novel genomic data structures, and co-supervise graduate students.
 
-- **Postdoctoral research**  
-  Short description ([GitHub](https://github.com/yourname/project1))
+**PhD:** I earned my PhD in Statistics from the University of Melbourne, where I was a core contributor to [tskit](https://tskit.dev/) and [stdpopsim](https://tskit.dev/software/stdpopsim.html) — foundational open-source Python packages for tree sequence genetics. These tools are now used by tens of thousands of researchers worldwide. I also applied machine learning methods to infer demographic history from Indigenous Australian genomes, in collaboration with the National Centre for Indigenous Genomics.
 
-- **My PhD**  
-  Short description
+For a detailed résumé, find me on [LinkedIn](https://www.linkedin.com/in/georgia-tsambos-47984073/).
 
-### Guitar stuff
+## Music
+
+Outside the lab, I volunteer as a guitar and bass instructor at Rain City Rock Camp, a music nonprofit in Seattle where I help people of all ages write and perform original songs. I also volunteer as a guitarist in the house band for the Royal Room's "Women In Blues" community events, with proceeds from my appearances donated by the venue to Rain City Rock Camp and Northwest Harvest. Playing in this series has immersed me in the blues as a living, evolving art form — something I had little exposure to growing up in Australia.
+
+Follow along on [Instagram](https://www.instagram.com/georgiaplaysguitar/).
