@@ -26,6 +26,16 @@ nav a:hover {
   text-decoration: underline;
 }
 
+.profile-photo {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.profile-photo img {
+  max-width: 280px;
+  border-radius: 8px;
+}
+
 main {
   margin-bottom: 3rem;
 }

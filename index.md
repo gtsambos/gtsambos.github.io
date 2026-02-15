@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+<div class="profile-photo">
+  <img src="images/georgia.jpg" alt="Georgia Tsambos">
+</div>
+
 Hi, I'm Georgia — a scientist, musician, and Australian living in Seattle.
 
 ## About me
@@ -17,6 +21,8 @@ For a detailed résumé, find me on [LinkedIn](https://www.linkedin.com/in/georg
 
 ## Music
 
-Outside the lab, I volunteer as a guitar and bass instructor at Rain City Rock Camp, a music nonprofit in Seattle where I help people of all ages write and perform original songs. I also volunteer as a guitarist in the house band for the Royal Room's "Women In Blues" community events, with proceeds from my appearances donated by the venue to Rain City Rock Camp and Northwest Harvest. Playing in this series has immersed me in the blues as a living, evolving art form — something I had little exposure to growing up in Australia.
+Outside the lab, I'm a keen guitarist. Since the pandemic, most of the action has happened on Instagram, but while I'm in Seattle for my postdoc, I'm taking advantage of the deep musical history of my new home by immersing myself in local community:
 
-Follow along on [Instagram](https://www.instagram.com/georgiaplaysguitar/).
+ - I'm a semi-regular at the open-mic jams at Nectar Lounge and Human People.
+ - I've volunteered as a guitar, bass, and band instructor at events for Rain City Rock Camp, a music nonprofit in Seattle.
+ - I also volunteer as a guitarist in the house band for the Royal Room's seasonal "Women In Blues" and "Women In Country" community events, with proceeds from my appearances donated by the venue to Rain City Rock Camp and Northwest Harvest.
