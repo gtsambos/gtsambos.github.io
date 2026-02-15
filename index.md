@@ -21,7 +21,7 @@ For a detailed résumé, find me on [LinkedIn](https://www.linkedin.com/in/georg
 
 ## Music
 
-Outside the lab, I'm a keen guitarist. Since the pandemic, most of the action has happened on Instagram, but while I'm in Seattle for my postdoc, I'm taking advantage of the deep musical history of my new home by immersing myself in local community:
+Outside the lab, I'm a keen guitarist. Since the pandemic, most of the action has happened on [Instagram](https://www.instagram.com/georgiaplaysguitar/), but while I'm in Seattle for my postdoc, I'm taking advantage of the deep musical history of my new home by immersing myself in local community:
 
  - I'm a semi-regular at the open-mic jams at Nectar Lounge and Human People.
  - I've volunteered as a guitar, bass, and band instructor at events for Rain City Rock Camp, a music nonprofit in Seattle.
