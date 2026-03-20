@@ -26,3 +26,5 @@ Outside the lab, I'm a keen guitarist. Since the pandemic, most of the action ha
  - I'm a semi-regular at the open-mic jams at Nectar Lounge and Human People.
  - I've volunteered as a guitar, bass, and band instructor at events for Rain City Rock Camp, a music nonprofit in Seattle.
  - I also volunteer as a guitarist in the house band for the Royal Room's seasonal "Women In Blues" and "Women In Country" community events, with proceeds from my appearances donated by the venue to Rain City Rock Camp and Northwest Harvest.
+
+See my [upcoming and past shows](/shows).
