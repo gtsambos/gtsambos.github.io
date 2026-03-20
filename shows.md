@@ -7,7 +7,7 @@ title: Shows
 
 | Date              | Venue                  | Band                           | Event |
 |-------------------|------------------------|--------------------------------|-------|
-| April 6, 2026     | Royal Room             | House band                     | [Womxn & Blues](https://theroyalroomseattle.com/event/womxn-blues-how-it-would-feel-to-be-free/) |
+| April 9, 2026     | Royal Room             | House band                     | [Womxn & Blues](https://theroyalroomseattle.com/event/womxn-blues-how-it-would-feel-to-be-free/) |
 | April 25, 2026    | Conor Byrne            | House band                     | [Queer Country Dance](https://www.conorbyrnepub.com/calendar#/events/167538) |
 | May 7, 2026       | Royal Room             | House band                     | Womxn & Blues |
 | May 25, 2026      | Seattle Center         | House band                     | Womxn & Blues Folklife feature |
